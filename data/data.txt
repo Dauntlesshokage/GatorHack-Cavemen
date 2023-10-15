@@ -1,0 +1,20 @@
+{
+  "phones": [
+    {
+      "Phone Type": "iPhone 15 Pro Max"{
+      "Brand": "Apple",
+      "Price": 1299,
+      "Dimensions": "160.8 x 78.1 x 7.7 mm",
+      "Storage": "128GB, 256GB, 512GB, 1TB",
+      "Color Options": "Space Gray, Silver, Gold",
+      "Trade-In Promotions": "Up to $500 trade-in value towards your purchase",
+      "Payment Methods by Months": "12 months, 24 months",
+      "Pairable Accessories": "Leather Folio Case, 20W USB-C Power Adapter, AirPods Pro",
+      "Overview": "The iPhone 15 Pro Max is a flagship device with a stunning large display and a powerful A16 Bionic chip.",
+      "Features": "- 6.7-inch Super Retina XDR display<br>- Triple-camera system with ProRAW and ProRes capabilities<br>- 5G connectivity<br>- Face ID with improved security<br>- Water and dust resistance (IP68)",
+      "Specs": "- A16 Bionic chip with 6-core CPU<br>- Up to 1TB of storage<br>- Ceramic Shield front cover<br>- MagSafe technology<br>- iOS 16",
+      "Reviews": "\"The iPhone 15 Pro Max is an absolute powerhouse. The camera quality is unmatched, and the large screen is perfect for media consumption.\" - TechGuru<br>\"The A16 chip delivers exceptional performance, making this iPhone a great choice for power users.\" - MobileTechReviews"
+      }
+    }
+  ]
+}
